@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wulan Aquariyanti</title>
+    <link>http://wulanaquariyanti.id/</link>
+    <description>Recent content on Wulan Aquariyanti</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://wulanaquariyanti.id/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>http://wulanaquariyanti.id/about/</link>
+      <pubDate>Sat, 05 Sep 2020 12:57:12 +0800</pubDate>
+      
+      <guid>http://wulanaquariyanti.id/about/</guid>
+      <description>Wulan Aquarianti is born and raised in Indonesia. She completed all her education up to her undergraduate degree in Indonesia, and 2 professional years with Nokia Siemens Network as Network Planning and Optimisation&amp;rsquo;s Project Controller.
+Wulan Aquariyanti is passionate about teaching. During her undergraduate time in Indonesia she already teaching her fellow and junior students as an assistant laboratorium in Universitas Bina Nusantara, her almamater. She also active in social education for marginalized community in rural Jakarta.</description>
+    </item>
+    
+  </channel>
+</rss>
